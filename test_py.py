@@ -5,3 +5,6 @@
 import pymysql
 
 print(type(tuple()))
+print(type(1))
+
+print(1111)
