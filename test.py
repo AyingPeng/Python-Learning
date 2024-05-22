@@ -5,3 +5,5 @@ import random
 
 print(type(random.randint(1, 9)))
 print(random.randint(1, 9))
+
+print("hello python")
