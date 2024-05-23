@@ -3,3 +3,5 @@
 # 2024/05/23 11:50
 
 print(type('test'))
+
+print(type(11))
